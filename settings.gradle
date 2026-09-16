@@ -1,1 +1,2 @@
-
+rootProject.name = "odoo-android-app"
+include ':app'
